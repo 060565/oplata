@@ -10,7 +10,7 @@
   background: linear-gradient(90deg, #003366 0%, #006633 100%);
   width: 1000px;
   height: 1792px;
-  position: relative;
+  position: absolute;
 }
 
 .frame .div-2 {
