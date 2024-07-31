@@ -100,7 +100,7 @@
   color: #838383;
   background: transparent;
   border: none;
-  min-width: 300px; /* Минимальная ширина поля */
+  min-width: 700px; /* Минимальная ширина поля */
   text-align: center;
   white-space: nowrap; /* Запрещает перенос текста на следующую строку */
 }
