@@ -14,7 +14,7 @@
 }
 
 .frame .div-2 {
-  position: fixed;
+  position: absolute;
   width: 732px;
   height: 801px;
   top: 495px;
