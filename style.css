@@ -8,7 +8,7 @@
 
 .frame .div {
   background: linear-gradient(90deg, #003366 0%, #006633 100%);
-  width: 828px;
+  width: 100%;
   height: 1792px;
   position: relative;
 }
