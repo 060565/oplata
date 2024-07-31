@@ -14,11 +14,11 @@
 }
 
 .frame .div-2 {
-  position: relative;
+  position: fixed;
   width: 732px;
   height: 801px;
   top: 495px;
-  left: 200px;
+  left: 130px;
   background-color: #121212;
   border-radius: 30px;
   overflow: hidden;
