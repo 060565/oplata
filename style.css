@@ -100,7 +100,7 @@
   color: #838383;
   background: transparent;
   border: none;
-  width: 300px; /* Установите фиксированную ширину */
+  width: 700px; /* Установите фиксированную ширину */
   text-align: center;
   overflow: hidden; /* Обрезает текст, выходящий за пределы */
   text-overflow: ellipsis; /* Добавляет многоточие в конце обрезанного текста */
